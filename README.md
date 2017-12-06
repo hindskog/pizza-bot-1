@@ -23,11 +23,11 @@ We're going to be using a combination of `prompt()` and `alert()` to create the 
 To start you off, we've defined 4 variables in code/pizzabot.js which you'll use throughout the rest of this assignment:
 
 ```
-const vegetarian = "Vegetarian Pizza"
-const hawaiian = "Hawaiian Pizza"
-const pepperoni = "Pepperoni Pizza"
+var vegetarian = "Vegetarian Pizza";
+var hawaiian = "Hawaiian Pizza";
+var pepperoni = "Pepperoni Pizza";
 
-const pizzaPrice = 80
+var pizzaPrice = 80;
 ```
 
 #### 2.2 Greeting the customer
@@ -80,8 +80,7 @@ The functions should all reflect the tasks we've completed so far. So, the funct
 
 ### :books: Reading List
 
-* [MDN - const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
-* [MDN - let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+* [MDN - var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
 * [MDN - if/else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
 * [MDN - arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
